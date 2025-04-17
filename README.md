@@ -14,8 +14,3 @@ It aims to help developers understand, explain, and debug code by allowing them 
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone this repository
-```bash
-git clone https://github.com/sxtvik/codechat.git
