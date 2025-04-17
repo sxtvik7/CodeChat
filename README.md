@@ -18,4 +18,4 @@ It aims to help developers understand, explain, and debug code by allowing them 
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/codechat.git
+git clone https://github.com/sxtvik/codechat.git
